@@ -3,7 +3,7 @@
 <div align="center">
   <samp>
       <br>
-        <strong>Hello, my name is brinelsostrong>
+        <strong>Hello, my name is brinelso<strong>
       <br>
 </div>
 <div align="center">
@@ -68,13 +68,13 @@
 
 <div align="center">
 
-  [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:phkfaria@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/brinelsorique.svg/)
+  [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:brinelso4059@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/joaogabriel_vaz/)
   [![Discord](https://img.shields.io/badge/Discord-2e3440?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/5512981184584)
-  [![Twitch](https://img.shields.io/badge/Twitch-2e3440?style=for-the-badge&logo=twitch&logoColor=fff)](https://www.twitch.tv/tibiano_br)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/5512981097784)
+  [![Twitch](https://img.shields.io/badge/Twitch-2e3440?style=for-the-badge&logo=twitch&logoColor=fff)](https://www.twitch.tv/brinelso4059)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/brinelsoria-245673281/)
-  [![Reddit](https://img.shields.io/badge/Reddit-2e3440?style=for-the-badge&logo=Reddit&logoColor=fff)](https://www.reddit.com/user/FriendlyKale7534/)
+  [![Reddit](https://img.shields.io/badge/Reddit-2e3440?style=for-the-badge&logo=Reddit&logoColor=fff)](https://www.reddit.com/user/)
   
   
 </div>
